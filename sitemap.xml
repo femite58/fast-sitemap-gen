@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    <url>
+        <loc>https://pavypay.com/</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/developers</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/pricing</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/about</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/blog</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/blog/details/1/what-is-escrow-</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/legal/terms-of-service</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/legal/privacy-policy</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/legal/return-policy</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/blog/product</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/blog/details/2/the-importance-of-digitalizing-your-business</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/blog/details/3/we-are-going-live-</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/blog/all</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/blog/marketing</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://pavypay.com/blog/company-news</loc>
+        <lastmod>2023-04-23T22:58:41.444Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    
+</urlset>

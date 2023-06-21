@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Sitemap Generator</title>
+        <style>
+            * {
+                box-sizing: border-box;
+            }
+            h1 {
+                text-align: center;
+                margin-top: 0;
+                margin-bottom: 40px;
+            }
+            body {
+                background: #f2f2f2;
+                margin: 0;
+                font-family: system-ui, -apple-system, BlinkMacSystemFont,
+                    "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+                    "Helvetica Neue", sans-serif;
+            }
+            .formCont {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                min-height: 100vh;
+            }
+            form {
+                max-width: 500px;
+                margin: auto;
+                width: 100%;
+                padding: 40px;
+                background: #fff;
+                box-shadow: 0 0 20px #0000001b;
+            }
+            .formGroup {
+                margin-bottom: 20px;
+            }
+            label {
+                margin-bottom: 8px;
+                display: block;
+            }
+            input {
+                border: 1px solid #d2d2d2;
+                height: 45px;
+                display: block;
+                outline: none !important;
+                width: 100%;
+                padding: 6px 12px;
+                border-radius: 4px;
+            }
+            input:focus {
+                box-shadow: 0 0 10px #0000001c;
+                border-color: #004f6d;
+            }
+            button {
+                height: 47px;
+                width: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background-color: #004f6d;
+                color: #fff;
+                border: none;
+                border-radius: 3px;
+                cursor: pointer;
+                font-weight: 500;
+                margin-top: 30px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="formCont">
+            <form action="/generate-sitemap" method="get">
+                <h1>Sitemap Generator</h1>
+                <div class="formGroup">
+                    <input
+                        type="text"
+                        placeholder="eg: https://example.com"
+                        name="baseUrl"
+                    />
+                </div>
+                <div class="formGroup">
+                    <input type="number" placeholder="Limit" name="limit" />
+                </div>
+                <button>Generate</button>
+            </form>
+        </div>
+    </body>
+</html>
